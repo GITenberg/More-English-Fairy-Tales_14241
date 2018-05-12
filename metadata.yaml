@@ -1,0 +1,50 @@
+_repo: More-English-Fairy-Tales_14241
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Jacobs, Joseph
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2470'
+    url: http://www.gutenberg.org/2009/agents/2470
+  illustrator:
+    agent_name: Batten, John Dickson
+    aliases:
+    - Batten, J. D. (John Dickson)
+    - Batten, John D.
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '6327'
+    url: http://www.gutenberg.org/2009/agents/6327
+    wikipedia: http://en.wikipedia.org/wiki/John_Dickson_Batten
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England'
+- !lcsh 'Fairy tales -- England'
+- !lcc 'PZ'
+tableOfContents: The pied piper of Franchville -- Hereafterthis -- The golden ball
+  -- My own self -- The black bull of Norroway -- Yallery Brown -- Three feathers
+  -- Sir Gammer Vans -- Tom Hickathrift -- The Hedley kow -- Gobborn seer -- Lawkamercyme
+  -- Tattercoats -- The wee bannock -- Johnny Gloke -- Coat o' clay -- The three cows
+  -- The blinded giant -- Scrapefoot -- The pedlar of Swaffham -- The old witch --
+  The three wishes -- The buried moon -- A son of Adam -- The children in the wood
+  -- The Hobyahs -- A pottle o' brains -- The king of England and his three sons --
+  King John and the Abbot of Canterbury -- Rushen Coatie -- The king o' the cats --
+  Tamlane -- The stars in the sky -- News! -- Puddock, Mousie, and Ratton -- The little
+  bull-calf -- The wee, wee Mannie -- Habetrot and Scantlie Mab -- Old mother Wiggle-Waggle
+  -- Catskin -- Stupid's cries -- The Lambton worm -- The wise men of Gotham -- The
+  princess of Canterbury.
+title: More English Fairy Tales
+url: http://www.gutenberg.org/ebooks/14241
